@@ -1,6 +1,6 @@
 # Image and Text Classification with CNN and data augmentation, NLP methods and LLMs
 
-This project's objective is to train several CNN with data augmentation and without and classify images and text. And then evaluate the results. Tensorflow Keras libraries for data augmentation are used.  
+This project's objective is to train several CNN with data augmentation, transfer learning (fine tuning) and without and classify images and text. And then evaluate the results. Tensorflow Keras libraries for data augmentation are used.  
 
 **Methods**
 **LLM:** Bert
